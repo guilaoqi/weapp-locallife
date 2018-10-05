@@ -1,0 +1,6 @@
+/* pages/contact/contact.wxss */
+.container{
+  background-color: #fff;
+  align-items: center;
+  padding:500rpx 0;
+}

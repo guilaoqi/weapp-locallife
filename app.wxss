@@ -1,0 +1,12 @@
+@import 'venders/weui';
+
+
+
+.container{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+}
+page {
+  background-color: #f0f0f0;
+}

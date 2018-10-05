@@ -1,0 +1,56 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.3.0",
+	"appid": "wx2e71da1dfdfb1232",
+	"projectname": "%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E6%A1%88%E4%BE%8B",
+	"svr": "/",
+	"client": "/",
+	"qcloudRoot": "/",
+	"miniprogramRoot": "/",
+	"cloudfunctionRoot": "/",
+	"jsserverRoot": "/",
+	"pluginRoot": "/",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"scripts": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "list",
+					"pathName": "pages/list/list",
+					"query": "id=1"
+				}
+			]
+		}
+	}
+}
